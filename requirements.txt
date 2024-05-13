@@ -1,0 +1,13 @@
+crewai
+python-dotenv
+langchain-community
+langchain-core
+openai
+tools
+yfinance
+quandl
+scikit-learn
+quandl
+decouple
+prophet
+duckduckgo-search
